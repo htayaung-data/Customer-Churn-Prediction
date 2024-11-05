@@ -71,7 +71,7 @@ The dataset comprises various customer attributes, including demographic informa
 ## Usage
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/telco-churn-prediction.git
+   git clone https://github.com/yourusername/telco-churn-prediction.git](https://github.com/htayaung-data/Customer-Churn-Prediction-using-Ensemble-Learning.git
    cd telco-churn-prediction
    ```
 
